@@ -30,29 +30,39 @@ This dataset contains images of fruits at various ripeness levels (unripe and ri
 
 ## [2.] Model Architecture
 
-A Convolutional Neural Network (CNN) model is used for classification in both dataset categories. The model architecture can be customized based on requirements, but for this project, the following architecture is used:
+A Convolutional Neural Network (CNN) model is used to classify both dataset categories. The model architecture can be customized based on requirements, but for this project, the following architecture is used:
 
 - Input Layer
 - Convolutional Layers: Used for feature extraction from the images.
 - Max Pooling Layers: Used for dimensionality reduction of the features.
 - Flatten Layer: Flattens the features into a vector.
 - Fully Connected Layers: Perform classification tasks.
-- Output Layer: Outputs the classification predictions.
+- Output Layer: Outputs the classification predictions, it depends on labels.
+
+#### The Results 
+| Model | Accuracy |
+| :---: | :---: |
+| `Corn ( _Jagung_ )` | **93.4 %** |
+| `Apple ( _Apel_ )` | **97.6%**  |
+| `Grape ( _Anggur_ )` | **98%**  |
+| `Potato ( _Kentang_ )` | **94%**  |
+| `Banana ( _Pisang_ )` | **99%**  |
+| `Tomato ( _Tomat_ )` | **99%**  |
+  
 
 ## [3.] Requirements
 
 - Python 3
 - TensorFlow
-- Pandas
 - NumPy
 - Matplotlib
 
 ## [4.] Usage
 
 1. Clone this repository to your local machine.
-2. Install all the required dependencies by running `pip install -r requirements.txt`.
+2. Install all the required dependencies.
 3. Make sure the dataset is available and placed in the appropriate directory structure.
-4. Run the script to train the model and perform evaluation.
+4. Run the script to train the model and perform the evaluation.
 5. You can customize the script, model architecture, or hyperparameters according to your needs.
 
 ## [5.] References
