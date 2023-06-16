@@ -45,8 +45,7 @@ A Convolutional Neural Network (CNN) model is used to classify both dataset cate
 - Output Layer: Outputs the classification predictions, it depends on labels.
 
 Pretrained Architechture (**MobileNet-v1**) :
-![Alt text](msedge_CNN-MobileNet-v1-architecture.ppm_(850%C3%97234)_and_43_rqki0YgDOB.png)
-
+![msedge_CNN-MobileNet-v1-architecture ppm_850234_and_43_rqki0YgDOB](https://github.com/Agronify/Agronify-model/assets/71364076/2ce65320-8548-4f0d-a55f-516e01128b40)
 
 #### The Results
 #### a. Disease Plants Detection   
