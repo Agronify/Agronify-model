@@ -91,7 +91,7 @@ A Convolutional Neural Network (CNN) model is used to classify both dataset cate
 
 [4] Paper for Pretrained Model
 
-## [6.] Authors
+## [ 7 ] Authors
 
 This project is developed by C23-PS050 Team Bangkit as part of Bangkit Product Capstone.
 1. M305DSX2364 - Muhammad Dafa Ardiansyah 
