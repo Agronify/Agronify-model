@@ -13,15 +13,13 @@ This dataset contains images of plant leaves infected with diseases, and we have
 
 #### a. Field Crops (known as _Tanaman Pertanian_)
 - :corn: Corn ( Jagung ) :leaves:- [Common Rust, Gray Leaf Spot, Healthy, Northern Leaf Blight]
-- Cassava ( Singkong ) :leaves: - [Bacterial Blight, Brown Streak Disease, Green Mottle, Healthy, Mosaic Disease]
+- 🍁: Cassava ( Singkong ) :leaves: - [Bacterial Blight, Brown Streak Disease, Green Mottle, Healthy, Mosaic Disease]
 - :tomato: Tomato ( Tomat ) :leaves: - [Bacterial Spot, Early Blight, Healthy, Late Blight, Leaf Mold, Mosaic Virus, Septoria Leaf Spot, Spider Mites, Target Spot, Yellow Leaf Curl Virus]
-- 
 
 #### b. Plantation Crops (know as _Tanaman Perkebunan_)
 - :apple: Apple ( Apel ) :leaves: - [Black Rot, Healthy, Rust, Scab]
 - :sweet_potato: Potato ( Potato ) :leaves: - [Early Blight, Healthy, Late Blight]
 - :grapes: Grape ( Anggur ) :leaves: - [Black Rot, ESCA, Healthy, Leaf Blight]
-- Soybean 
 
 ### **Ripeness Fruits Detection**: 
 This dataset contains images of fruits at various ripeness levels (unripe and ripe), such as :
@@ -53,7 +51,7 @@ A Convolutional Neural Network (CNN) model is used to classify both dataset cate
 | `Corn ( Jagung )` | **97%** | **9%** |
 | `Apple ( Apel )` | **99%**  | **6%** |
 | `Grape ( Anggur )` | **98%**  | **4%** |
-| `Potato ( Kentang )` | **98%**  | **9** |
+| `Potato ( Kentang )` | **98%**  | **9%** |
 | `Cassava ( Singkong )` | **89%**  | **27%** |
 | `Tomato ( Tomat )` | **98%**  | **6%** |
 | `Soybean ( Tomat )` | **98%**  | **6%** |
@@ -69,11 +67,11 @@ A Convolutional Neural Network (CNN) model is used to classify both dataset cate
 
 ## [ 4 ] Requirements
 
-- Python 3
-- Keras
-- TensorFlow
-- NumPy
-- Matplotlib
+- Python 3 - v3.10
+- Keras - v2.12.0
+- TensorFlow - v2.12.0
+- NumPy - v1.23.5
+- Matplotlib - v3.6.3
 
 ## [ 5 ] Usage
 
