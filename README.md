@@ -15,6 +15,7 @@ This dataset contains images of plant leaves infected with diseases, and we have
 - :corn: Corn ( Jagung ) :leaves:- [Common Rust, Gray Leaf Spot, Healthy, Northern Leaf Blight]
 - 🍁: Cassava ( Singkong ) :leaves: - [Bacterial Blight, Brown Streak Disease, Green Mottle, Healthy, Mosaic Disease]
 - :tomato: Tomato ( Tomat ) :leaves: - [Bacterial Spot, Early Blight, Healthy, Late Blight, Leaf Mold, Mosaic Virus, Septoria Leaf Spot, Spider Mites, Target Spot, Yellow Leaf Curl Virus]
+- 🍚 Rice ( Padi ) 🌾 - [Brown Spot, Healthy, Hispa, Leaf Blast, Neck Blast]
 
 #### b. Plantation Crops (know as _Tanaman Perkebunan_)
 - :apple: Apple ( Apel ) :leaves: - [Black Rot, Healthy, Rust, Scab]
@@ -57,6 +58,7 @@ Pretrained Architechture (**MobileNet-v1**) :
 | `Grape ( Anggur )` | **98%**  | **4%** |
 | `Potato ( Kentang )` | **98%**  | **9%** |
 | `Cassava ( Singkong )` | **89%**  | **27%** |
+| `Rice ( Padi )` | **89%**  | **36%** |
 | `Tomato ( Tomat )` | **98%**  | **6%** |
 | `Soybean ( Kacang Hijau )` | **96%**  | **15%** |
 
