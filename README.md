@@ -96,6 +96,7 @@ Pretrained Architechture (**MobileNet-v1**) :
 - Cassava dataset = https://scholarsphere.psu.edu/resources/215d1acd-2c1e-440b-a27a-03d212761ef7
 - Tomato = https://www.kaggle.com/datasets/kevinbagaskara/kematangan-buah-tomat?select=Matang
 - Banana = https://github.com/luischuquim/BananaRipeness/tree/main/Banana%20Images
+- Grape = https://www.kaggle.com/datasets/rm1000/augmented-grape-disease-detection-dataset
 
 [4] Paper for Pretrained Model
 
