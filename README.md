@@ -20,6 +20,7 @@ This dataset contains images of plant leaves infected with diseases, and we have
 - :apple: Apple ( Apel ) :leaves: - [Black Rot, Healthy, Rust, Scab]
 - :sweet_potato: Potato ( Potato ) :leaves: - [Early Blight, Healthy, Late Blight]
 - :grapes: Grape ( Anggur ) :leaves: - [Black Rot, ESCA, Healthy, Leaf Blight]
+- 🍂 Soybean (Kacang Hijau) 🍃 - [Bacterial Blight, Caterpillar, Diabrotica, Speciosa, Downy Mildew, Healthy, Mosaic Virus, Powdery Mildew, Rust, Southern Blight]
 
 ### **Ripeness Fruits Detection**: 
 This dataset contains images of fruits at various ripeness levels (unripe and ripe), such as :
@@ -57,12 +58,12 @@ Pretrained Architechture (**MobileNet-v1**) :
 | `Potato ( Kentang )` | **98%**  | **9%** |
 | `Cassava ( Singkong )` | **89%**  | **27%** |
 | `Tomato ( Tomat )` | **98%**  | **6%** |
-| `Soybean ( Kacang Hijau )` | **98%**  | **6%** |
+| `Soybean ( Kacang Hijau )` | **96%**  | **15%** |
 
 #### b. Ripeness Fruits Detection   
 | Model | Accuracy |  Loss |
 | :---: | :---: | :---: |
-| `Banana ( Pisang )` | **99%**  | **9%** |
+| `Banana ( Pisang )` | **99%**  | **2%** |
 | `Tomato ( Tomat )` | **99%**  | **2%** |
 
 
