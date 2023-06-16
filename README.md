@@ -44,6 +44,10 @@ A Convolutional Neural Network (CNN) model is used to classify both dataset cate
 - Fully Connected Layers: Perform classification tasks.
 - Output Layer: Outputs the classification predictions, it depends on labels.
 
+Pretrained Architechture (**MobileNet-v1**) :
+![Alt text](msedge_CNN-MobileNet-v1-architecture.ppm_(850%C3%97234)_and_43_rqki0YgDOB.png)
+
+
 #### The Results
 #### a. Disease Plants Detection   
 | Model | Accuracy |  Loss |
@@ -54,7 +58,7 @@ A Convolutional Neural Network (CNN) model is used to classify both dataset cate
 | `Potato ( Kentang )` | **98%**  | **9%** |
 | `Cassava ( Singkong )` | **89%**  | **27%** |
 | `Tomato ( Tomat )` | **98%**  | **6%** |
-| `Soybean ( Tomat )` | **98%**  | **6%** |
+| `Soybean ( Kacang Hijau )` | **98%**  | **6%** |
 
 #### b. Ripeness Fruits Detection   
 | Model | Accuracy |  Loss |
@@ -89,7 +93,15 @@ A Convolutional Neural Network (CNN) model is used to classify both dataset cate
 
 [3] Dataset
 
+- All of the disease  = https://www.kaggle.com/datasets/alinedobrovsky/plant-disease-classification-merged-dataset/code
+- Cassava dataset = https://scholarsphere.psu.edu/resources/215d1acd-2c1e-440b-a27a-03d212761ef7
+- Tomato = https://www.kaggle.com/datasets/kevinbagaskara/kematangan-buah-tomat?select=Matang
+- Banana = https://github.com/luischuquim/BananaRipeness/tree/main/Banana%20Images
+
 [4] Paper for Pretrained Model
+
+- Howard, A. G. (2017, April 17). MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. arXiv.org. https://arxiv.org/abs/1704.04861
+ 
 
 ## [ 7 ] Authors
 
